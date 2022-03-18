@@ -1,0 +1,1 @@
+{"stages":[{"game_type":2,"customization":0,"config_name":"G2S3C0_Thumbelina_1","game_name":"G2S3C0_Thumbelina_1"}]}
