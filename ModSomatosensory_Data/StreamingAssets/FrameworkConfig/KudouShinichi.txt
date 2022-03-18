@@ -1,1 +1,0 @@
-{"stages":[{"game_type":2,"customization":0,"config_name":"G2S1C0_KudouShinichi_1","game_name":"G2S1C0_KudouShinichi_1"},{"game_type":2,"customization":0,"config_name":"G2S1C0_KudouShinichi_2","game_name":"G2S1C0_KudouShinichi_2"},{"game_type":2,"customization":0,"config_name":"G2S1C0_KudouShinichi_3","game_name":"G2S1C0_KudouShinichi_3"}]}
